@@ -1,0 +1,6 @@
+{
+  "name": "College Policy Assistant",
+  "description": "A helpful AI chatbot providing clear, accurate, and student-friendly information about college policies, exam rules, and campus regulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
